@@ -19,6 +19,8 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Solution files for the assignment
 
+These files are saved in solution_datasets.zip (file was too large)
+
 * HAR_tall.txt -- dataset of variables containing 'mean' and 'std' reshaped into tall, skinny dataframe; 751827 obs. of 5 vars.   
 * HAR_pt_activity_summary.txt -- dataset with means for each variable, as grouped by participant ID and activity; 13140 obs. of 4 vars.  
 * HAR_CODEBOOK_bon -- contains explanations for variables of the above two datasets  
