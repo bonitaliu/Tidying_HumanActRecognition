@@ -27,4 +27,4 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Other files that might be useful
 
-* HAR_subset.txt -- dataset with only measurements of mean and standard deviation extracted out of full dataset, not yet a tall dataset; 10299 obs. of 74 vars.  
+* HAR_std_mean.txt -- dataset with only measurements of mean and standard deviation extracted out of full dataset, not yet a tall dataset; 10299 obs. of 74 vars.  
