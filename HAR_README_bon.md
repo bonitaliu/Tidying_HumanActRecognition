@@ -2,7 +2,7 @@
 
 UCI's Machine Learning Repository holds a collection of datasets available for analysis and research. 
 
-To put data wrangling functions in R into practical use, the **John Hopkins' Getting and Cleaning Data** course assigns the current project which requires performing various data formatting functions (such as summarizing, merging and reshaping) on the **Human Activity Recognition Using Smartphones Data Set** (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The purpose of this project is to demonstrate students' ability to collect, work with, and clean a data set, with the goal of preparing a tidy data that can be used for later analysis. 
+To put data wrangling functions in R into practical use, the **John Hopkins' Getting and Cleaning Data** course assigns the current project which requires performing various data formatting functions (such as summarizing, merging and reshaping) on the **Human Activity Recognition Using Smartphones Data Set** which may be accessed via the following website: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones (please note that I have not uploaded the original data into this repository). The purpose of this project is to demonstrate students' ability to collect, work with, and clean a data set, with the goal of preparing a tidy data that can be used for later analysis. 
 
 For this project, I used packages Dplyr, Reshape2, and Tidyverse in RStudio 3.6.2.
 
